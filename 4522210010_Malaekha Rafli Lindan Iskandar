@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<link rel="stylesheet" href="./style.css">
+<style>
+    .JUDUL {
+        text-align: center;
+        list-style: none;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: darksalmon;
+    }
+
+    .JENIS,.JENIS
+    li {
+        text-align: center;
+    
+    }
+
+    .PHASEONE,.PHASEONE
+    li {
+        text-align: center;
+    
+        font-style: italic;
+    }
+
+    .HALO {
+        text-align: center;
+    }
+
+    .PHASETWO,.PHASETWO li{
+        text-align: center;
+        
+        font-style: italic;
+    }
+
+    .PHASETHREE,.PHASETHREE li{
+        text-align: center;
+       
+        font-style: italic;
+    }
+
+    .PHASEFOUR,.PHASEFOUR li {
+        text-align: center;
+        
+        font-style: italic;
+    }
+
+    footer {
+        text-align: justify;
+        background-color: aliceblue;
+    }
+    
+</style>
+<div class="JUDUL">
+<h1>
+    Marvel's 'Phases' explained: What is Phase 2? What happened in Phase 3?
+</h1>
+<h2>
+    We're into The Multiverse Saga.
+</h2>
+<h3>
+    By Malaekha Rafli Lindan Iskandar UPDATED: 25 September 2023
+</h3>
+</div>
+<body>
+<div class="JENIS">
+    <button class="JENIS">
+<ul>
+    <li><a href="">Phase 1</a></li>
+    <li><a href="">Phase 2</a></li>
+    <li><a href="">Phase 3</a></li>
+    <li><a href="">Phase 4</a></li>
+</ul>
+</button>
+<p>
+    We're firmly into The Multiverse Saga of the MCU with Phase 5 under way, and things are only about to get bigger and more complex.
+Phase 4 saw TV shows folded into the MCU's interconnected storylines more than ever before and this will continue throughout Phase 5 and the already-confirmed Phase 6, which will wrap up with an epic Avengers double-bill.
+That will complete the second of the MCU's two Sagas to date, both of which contain three Phases. If this all sounds like nonsense to you, we don't blame you as there's a lot to keep up from 15 years of Marvel storytelling.
+So we're here to help with a (brief) overview of every Phase to date and what we can expect in the future.
+</p>
+</div>
+<div class="PHASEONE">
+    <button class="PHASEONE">
+<h1>
+    PHASE 1 (2008 to 2012)
+</h1>
+<img src="./iron-man-robert-downey-jr-bares-heart-1549541800.jpg" height="400" alt="phase 1">
+<h2>
+    Movies featured:
+</h2>
+<ul>
+    <li>Iron Man</li>
+    <li>The Incredible Hulk</li>
+    <li>Iron Man 2</li>
+    <li>Thor</li>
+    <li>Captain America : The First Avengers</li>
+    <li>Avengers</li>
+</ul>
+</div>
+<div class="HALO">
+<h2>
+    What's it all about?
+</h2>
+<p>
+    Billionaire arms-dealing playboy Tony Stark has a life-changing experience in the desert and builds himself a hero suit. He fights a number of other tech-industry figures and meets Natasha Romanoff, aka Black Widow, and her SHIELD boss Nick Fury.Earnest science guy Bruce Banner has a life-changing experience in the lab and becomes a confused, angry green giant.
+    Alien god-type guy Thor is exiled to Earth and learns about sacrifice in a life-changing experience before defeating some frost giants.
+    Weedy 1940s shrimp Steve Rogers has a life-changing serum pumped into him and becomes a Nazi-bashing – sorry, Hydra-bashing – demigod in blue tights, then gets frozen for 70-odd years before thawing out in 2011.
+    Together they all join forces (with some archery guy called Hawkeye who no-one really cares about) under Nick Fury's aegis to take down Thor's naughty half-brother Loki and his alien hordes.
+    New York bears the brunt of it.
+</p>
+</div>
+</button>
+<div class="PHASETWO">
+    <button class="PHASETWO">
+<h1>
+    Phase 2 (2013 to 2015)
+</h1>
+<img src="./1450796053-age-of-ultron.jpg" height="400" alt="">
+<h2>Movies featured:</h2>
+<ul>
+    <li>Iron Man 3</li>
+    <li>Thor: the Dark World</li>
+    <li>Captain America: The Winter Soldier</li>
+    <li>Guardians of the Galaxy</li>
+    <li>Avengers: Age of Ultron</li>
+    <li>Ant-Man</li>
+</ul>
+</button>
+<h2>What's it all about?</h2>
+<p>
+    A (briefly) traumatised Tony Stark steps back from the action, only to be drawn back into it by another tech-industry figure and his puppet villain, an actor called Trevor who was the toast of Croydon.
+Thor has some trouble with a red McGuffin and some Dark Elves. Captain America is forced to turn against his own corrupt government when his old pal Bucky turns up as a brainwashed supersoldier.
+The Guardians of the Galaxy are a bunch of alien ne'er-do-wells who have trouble with a purple McGuffin and the alien warlord Thanos, and we also meet petty criminal Scott Lang, who inherits shrinking technology and becomes Ant-Man.
+But neither the Guardians nor Ant-Man have anything to do with the Avengers, who team up again to take down the cyber-consciousness Ultron, wrecking the country of Sokovia in the process.
+</p>
+</div>
+<div class="PHASETHREE">
+    <button class="PHASETHREE">
+<h1>
+    Phase 3 (2016 to 2019)
+</h1>
+<img src="./THANOS.jpg" height="400" alt="">
+<h2>
+    Movies featured:
+</h2>
+<ul>
+    <li>Captain America: Civil War</li>
+    <li>Doctor Strange</li>
+    <li>Guardians of the Galaxy Vol 2</li>
+    <li>Spider-Man: Homecoming</li>
+    <li>Thor: Ragnarock</li>
+    <li>Black Panther</li>
+    <li>Avengers: Infinity War </li>
+    <li>Ant-Man and the Wasp</li>
+    <li>Captain Marvel</li>
+    <li>Avengers: Endgame</li>
+    <li>Spider-Man: Far From Home</li>
+</ul>
+</button>
+<h2>What's it all about?</h2>
+<p>
+    The Big One. The Phase to end all Phases, until Phase 4.
+We meet Doctor Strange.He's a surgeon who can do magic, and his real name actually is Doctor Strange. (Of course, if he were British, like the actor who plays him, he would be Mr Strange, FRCS.)
+Captain America, his flying friend Falcon, Bucky, Ant-Man and Black Widow team up against Tony Stark, his buddy War Machine, his former cyber-butler Jarvis (now a demigod called Vision), Stark's teenage protégé Spider-Man and his new royal African friend Black Panther in a dispute over whether superheroes should answer to the world's governments or not.
+From the scale of it and the size of the cast, you might think this is Avengers 3, by the way, but it isn't.
+Cap's guys are variously captured or go into hiding, while Thor and Hulk are busy battling Thor's sister, the goddess of death. They win, but fall foul of Thanos at the end (that guy again!).
+The Guardians have more fun in space unconnected to anything else, until they meet up with Thor. Everyone we have mentioned so far apart from Thanos teams up against Thanos, who is collecting all the McGuffins in order to wipe out half of all life in the universe for ill-considered reasons.
+THANOS (spoilers) WINS and kills half of all life in the universe.Captain Marvel crash-lands on Earth in the 1990s, meets Nick Fury and gives him a pager "for emergencies only", stops a Kree invasion and befriends the Skrulls.
+The remaining Avengers band together five years after the Snap to go on a time travel heist in order to undo the Snap and bring everyone back. They're successful, but 2014-Thanos decides to cause some mayhem, leading Tony Stark to sacrifice himself to defeat the Mad Titan once and for all. Black Widow dies too and Captain America gets super old.
+Eight months later, Peter Parker is trying to deal with the death of his mentor and have a European vacation. Fury doesn't let him, though, and teams him up with Mysterio to defeat the Elementals – only problem is that Mysterio is behind it all. Spidey wins, but his identity is revealed to the world. Uh-oh.
+</p>
+</div>
+<div class="PHASEFOUR">
+    <button class="PHASEFOUR">
+<h1>
+    Phase 4 (2021 to 2022)
+</h1>
+<img src="./toby-maguire-tom-holland-andrew-garfield-spider-man-no-way-home-1647257533.jpg" height="400" alt="">
+<h2>
+    Movies and TV shows featured:
+</h2>
+<ul>
+    <li>Wanda Vision</li>
+    <li>The Falcon and the Winter Soldier</li>
+    <li>Black Widow</li>
+    <li>Loki Season 1</li>
+    <li>what if..</li>
+    <li>Shang-chi and the Legend of the Ten Rings</li>
+    <li>Eternals</li>
+    <li>Hawkeye</li>
+    <li>Spider-Man: No Way Home</li>
+    <li>Moon Knight</li>
+    <li>Doctor Strange in the Multiverse of Madness</li>
+    <li>Ms Marvel</li>
+    <li>Thor: Love and Thunder</li>
+    <li>She-Hulk: Attorney At Law</li>
+    <li>Werewolf By Night</li>
+    <li>Black Panther: Wakanda Forever</li>
+    <li>The Guardians of the Galaxy Holiday Special</li>
+</ul>
+</button>
+<h2>What's it all about?</h2>
+<p>
+    Phase 4 mostly consisted of two things: bringing a whole bunch of new characters into the MCU and introducing the concept of the multiverse.
+Notable new characters include Yelena Boleva (Florence Pugh) from Black Widow, Shang-Chi (Simu Liu) from Shang-Chi and the Legend of the Ten Rings, every Eternal including Harry Styles's Eros, Moon Knight (Oscar Isaac) from, erm, Moon Knight and America Chavez (Xochitl Gomez) from Doctor Strange in the Multiverse of Madness.The latter seems like one of the most crucial new additions as it was revealed that she can travel the multiverse. However, Loki also introduced He Who Remains (Jonathan Majors) who is a variant of Kang the Conqueror, the main villain of The Multiverse Saga if the title of Avengers 5 is anything to go by.
+In terms of the multiverse, Peter Parker briefly broke it in Spider-Man: No Way Home to make the world forget he was Spider-Man, while Doctor Strange ventured into the multiverse to save America from a vengeful Scarlet Witch (Elizabeth Olsen) who may, or may not, be dead now.
+As for other important things to remember, it's hard to say right now as pretty much every Phase 4 outing – whether on the big screen or the small screen – was largely self-contained with minimal crossovers. The credit scenes largely served to introduce new characters, such as the aforementioned Eros in Eternals.
+Once we see more of where the MCU is going in Phase 5, we might discover there were important details in Phase 4 beyond introducing new characters, and we'll update this if that turns out to be the case.
+</p>
+</div>
+<footer>
+    CONTACT
+</footer>
+<footer>
+    FEATURES
+</footer>
+<Footer>
+    HOME
+</Footer>
+<footer>
+    MARVEL STUDIO
+</footer>
+<footer>
+    DISNEY+
+</footer>
+</body>
+<body>
+    
+</body>
+</html>
